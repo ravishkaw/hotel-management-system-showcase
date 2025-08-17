@@ -34,7 +34,7 @@ The system handles **room reservations, event bookings, user management, and hou
 ## 🏗️ System Architecture
 
 ```
-[ React Frontend ] <--> [ Spring Boot REST API ] <--> [ PostgreSQL Database ]
+[ React Frontend ] <--> [ Spring Boot REST API ] <--> [ MySQL Database ]
 ```
 
 ---
